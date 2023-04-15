@@ -185,7 +185,7 @@ footer{
     padding-left: 0;
 }
 .image3{
-    max-width: 75px;
+    max-width: 100px;
     height: auto;
 }
 .gio{
@@ -200,6 +200,10 @@ footer{
     height: auto;
 }
 .image5{
-    width: 480px;
+    width: 450px;
+    height: auto;
+}
+.image6{
+    max-width: 100px;
     height: auto;
 }
