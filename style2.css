@@ -88,6 +88,9 @@ li a {
 .square1 h2 {
   padding-left: 2em;
 }
+.square1 h4 {
+  padding-left: 2em;
+}
 .nhap2{
   display: flex;
     padding-left: 2em;
@@ -119,8 +122,6 @@ select {
   font-size: large;
   padding-left: 2em;
 }
-
-
 footer {
   display: flex;
   justify-content: center;
@@ -183,4 +184,9 @@ a {
 }
 .end{
   display: flex;
+}
+
+.image2{
+  height: auto;
+  width: 50px;
 }
